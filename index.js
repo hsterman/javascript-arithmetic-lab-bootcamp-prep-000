@@ -10,6 +10,7 @@ function multiply (a, b) {
   return a * b
 }
 
+<<<<<<< HEAD
 function divide (a, b) {
 return a / b 
 }
@@ -37,3 +38,9 @@ function preserveDecimal(a) {
 function preserveDecimal(a) {
   return parseFloat(a)
 }
+=======
+function divide(a, b) {
+return a / b 
+}
+
+>>>>>>> 126a7f72b3fbafdac7442bb2ca50e0d4c080cb83
